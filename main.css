@@ -1,0 +1,297 @@
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-6/oth532.ani), url(http://cur.cursors-4u.net/others/oth-6/oth532.png), progress !important;} /* End http://www.cursors-4u.com */
+
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 , ul {
+
+	border: #2d76ed;
+	font-family: lobster, sans-serif;
+	float: left;
+	margin-top: 18px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #c4a1a2;
+
+}
+
+.saleitem1 img {
+	position: absolute;
+	float: middle;
+	padding-top: 1px;
+	padding-left: 8px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+	max-width: 400px;
+	max-height: 300px;
+}
+
+.honolulu {
+	float: center;
+	position: absolute;
+	margin-top:200px;
+	margin-left: 20px;
+}
+
+.honolulu_description {
+
+	padding top: 400px;
+}
+
+
+.add2cart {
+	float: left;
+	margin-top: 500px;
+	margin-left: 100px;
+	display: inline-block;
+} 
+
+
+
+aside {
+	font-family: lobster, tahoma, sans-serif;
+    position: center;
+}
+
+
+
+a {
+	font-family: lobster, tahoma, sans-serif;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	margin: 10px;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: pink;
+}
+
+
+
+.secondary {
+	color: pink;
+    float: right;
+    font-family: lobster, tahoma, sans-serif;
+}
+
+.current {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.blueberry {
+	float: right;
+	max-width: 200px;
+	padding: 1px 6px 5px 900px;
+	margin-top: 0;
+	
+}
+
+
+.contact {
+	display: inline-block;
+	position: absolute;
+	float: right;
+	font: lobster, tahoma, sans-serif;
+	widows: 40px;
+	text-align: center;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+	
+
+.comment {
+	position: absolute;
+	float: right;
+	padding-left: 1199px ; 
+	font-family: lobster, tahoma, sans-serif;
+	color: white;
+}
+
+.content-wrapper {
+	position: absolute;
+	padding-right: 400px;
+	size: 100%;
+}
+
+section {
+	font: lobster, tahoma, sans-serif;
+	width: 29%;
+	float: right;
+	margin: 2% 2%;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	
+}
+
+h1 {
+	text-align: center;
+	padding: 7px;
+}
+
+h2 {
+	font: lobster, tahoma, sans-serif;
+	float: center;
+}
+
+h3 {
+font: lobster, tahoma, sans-serif;
+text-align: center;
+line-height: 110:
+padding: 0;
+color: white;
+}
+
+p {
+	font-family: lobster, tahoma, sans-serif;
+	padding: 1%;
+	float: left;
+	color: white;
+}
+
+img {
+   font-family: lobster, tahoma, sans-serif;
+   text-align: center;
+   max-width: 100%;
+   height: auto;
+   width: auto;
+
+}
+
+
+body {
+	background: #77aaff;
+	font-family: lobster, tahoma, sans-serif;
+	overflow: auto;
+}
+
+
+
+header {
+	font: lobster, tahoma, raleway;
+	text-align: center;
+	color: pink;
+	padding: 0;
+    background: white;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    z-index: 100;
+    opacity: 0.60;
+    
+
+}
+
+
+#doc {
+	margin-left: 40px 0;
+
+}
+
+
+.login {
+	float: left;
+	font-family: lobster, tahoma, sans-serif;
+	text-align: right;
+	color: #fff;
+	box-align: center;
+	background-image: url(http://www.newpathwaytohealing.com/wp-content/uploads/2012/03/3.27-i-pets-clouds-lg.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-size: 16px;
+    opacity: 50%; 
+    padding-right: 3px;
+    padding-left: 1px;
+    margin-left: 2px;
+    cursor: ;
+}
+
+.login2 {
+	float: right;
+	font-family: lobster, tahoma, sans-serif;
+	text-align: right;
+	color: #fff;
+	font-size: 16px;
+    opacity: 50%; 
+     padding-right: 3px;
+    padding-left: 1px;
+    margin-left: 2px;
+	background-image: url(http://www.newpathwaytohealing.com/wp-content/uploads/2012/03/3.27-i-pets-clouds-lg.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin top: 5%;
+
+}
+
+#container { 
+	font: lobster, tahoma, sans-serif;
+	background-color: pink;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main {
+	font: lobster, tahoma, sans-serif;
+	width: 600px;
+	float; right
+}
+
+
+#nav ul li {
+	font: lobster, tahoma, sans-serif;
+	display: inline-block;
+	float: center;
+	list-style-type: none;
+	padding: 10px;
+	width: 150px;
+}
+
+#menu-icon {
+	font: lobster, tahoma, sans-serif;
+    display: hidden;
+    width: 40px;
+    height: 40px;
+    background: url(http://www.w3newbie.com/wp-content/uploads/icon.png) center;
+}
+
+a:hover#menu-icon {
+	border-radius: 4px 4px 0 0;
+}
+
+
+ul {
+	font: lobster, tahoma, sans-serif;
+  list-style: none;
+
+}
+
+#footer {
+	font: lobster, tahoma, sans-serif;
+    clear: both; 
+    padding-left: 7px;
+    
+}
+
+
+
+
+

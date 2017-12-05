@@ -1,0 +1,83 @@
+<!doctype html>
+
+<head>
+	<title> Hopping On Clouds </title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="main.css" type="text/css"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+</head>
+
+
+<header>
+
+	<h1> Shop For Your Screaming Feathered Baby</h1>
+	
+<div id="nav">
+        <a href="#" id="menu-icon"></a>
+     <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="birds.html" class="current">bird</a></li>
+        <li><a href="bunny.html">bunny</a></li>
+        <li><a href="dogs.html">dog</a></li>
+        <li><a href="horses.html">horse</a></li>
+        <li><a href="cats.html" >cat</a></li>
+        <li><a href="reptilians.html">reptilian</a></li>
+        <li><a href="snakes.html">snake</a></li>
+
+     </ul> </div> <br> 
+
+
+</header>
+
+<body>
+
+<div class="login2">
+    <form action="index.php" method="POST">
+Username: <input type="text" name="Username" id="login" placeholder="ur heavenly username"><br>
+Password: <input type="Password" name="Password" placeholder="*******"> <br>
+<input name="submit" value="login" type="submit">
+<br> <br> <br> 
+    </form>
+</div>
+
+	
+<div class ="add2cart">
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+  <!-- Identify your business so that you can collect the payments. -->
+  <input type="hidden" name="Made In Heaven" value="madeinheaven@clothingexperts.com">
+
+  <!-- Specify a PayPal Shopping Cart Add to Cart button. -->
+  <input type="hidden" name="cmd" value="_cart">
+  <input type="hidden" name="add" value="1">
+
+  <!-- Specify details about the item that buyers will purchase. -->
+  <input type="hidden" name="item_name" value="Bird From Honolulu - Full Set">
+  <input type="hidden" name="amount" value="15.99">
+  <input type="hidden" name="currency_code" value="GBD">
+
+  <!-- Display the payment button. -->
+  <input type="image" name="submit"
+    src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_addtocart_120x26.png"
+    alt="Add to Cart">
+  <img alt="" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif">
+</form>
+</div>
+
+
+		<div class="honolulu">	
+<img src="images/honolulu.jpg">
+</div> 
+
+
+</body>
+
+<footer>
+	
+	
+</footer>
+</html>
