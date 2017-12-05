@@ -256,7 +256,7 @@ header {
 }
 
 
-#nav ul li {
+.nav ul li {
 	font: lobster, tahoma, sans-serif;
 	display: inline-block;
 	float: center;
